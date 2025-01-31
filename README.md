@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![JRcard][(https://drive.google.com/file/d/1WCN0KIOPO4lCe7-_9EoydvyKOCoyt6vn/view?usp=drive_link)][(https://github.com/JRcard)]
-
+<img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://photos.app.goo.gl/uK35tgG8ZYadte3o6)">
 ![JRcard stats](https://github-readme-stats.vercel.app/api?username=JRcard&show_icons=true&theme=dark)
