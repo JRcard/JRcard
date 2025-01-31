@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://photos.fife.usercontent.google.com/pw/AP1GczMxVD54JulbdWZ4PQneIbz-CEHUJmSCBjcYJhh9BklTHCsSkaLDp27P=w411-h911-s-no-gm?authuser=0">
+<img align="right" alt="Coding" width="400" src="https://imgur.com/cdnQUF1">
