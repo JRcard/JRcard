@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![JRcard]([your image link](https://drive.google.com/file/d/1WCN0KIOPO4lCe7-_9EoydvyKOCoyt6vn/view?usp=drive_link))]([your GitHub link](https://github.com/JRcard))
+
 ![JRcard stats](https://github-readme-stats.vercel.app/api?username=JRcard&show_icons=true&theme=dark)
