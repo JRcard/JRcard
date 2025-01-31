@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://photos.app.goo.gl/uK35tgG8ZYadte3o6">
-![JRcard stats](https://github-readme-stats.vercel.app/api?username=JRcard&show_icons=true&theme=dark)
+<img align="right" alt="Coding" width="400" src="[https://photos.app.goo.gl/uK35tgG8ZYadte3o6](https://photos.fife.usercontent.google.com/pw/AP1GczMxVD54JulbdWZ4PQneIbz-CEHUJmSCBjcYJhh9BklTHCsSkaLDp27P=w411-h911-s-no-gm?authuser=0)">
