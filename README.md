@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://imgur.com/cdnQUF1">
+I am a Front-End development student with 4 years of self-taught programming experience.
